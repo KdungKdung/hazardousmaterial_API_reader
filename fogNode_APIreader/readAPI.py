@@ -52,3 +52,4 @@ def read_emergencyaction(materialkorname):
     return tempdata
 
 #read_emergencyaction('질산')
+#read_emergencyaction('디부틸아민')
